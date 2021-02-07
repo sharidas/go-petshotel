@@ -1,0 +1,9 @@
+{
+    "MongoUrl": "mongodb://localhost:27017",
+    "MailSender": "test@foo.com",
+    "MailTo": "admin@test.com",
+    "MailPort": 1025,
+    "MailServer": "localhost",
+    "AppPort": 5000,
+    "MailPasswd": ""
+}
